@@ -29,7 +29,8 @@ use of className instead of class
 self closing tag must of '/'
 use camelCase
 
-- React Components: Simple javascript function that return jsx
+- React Components:
+Simple javascript function that return jsx
 1. import statement (if needed)
 2. component function (always start with capital letter)
 3. javascript logic
