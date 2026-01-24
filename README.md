@@ -36,3 +36,10 @@ Simple javascript function that return jsx
 3. javascript logic
 4. return jsx (UI)
 5. export so other can use it
+
+- Map
+- component composition
+- Props, destructure, children props(composition)
+- Array od data
+- Spread Operator
+- 
